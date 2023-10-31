@@ -4,3 +4,5 @@ Création d'un logiciel de traitement d'image, qui pourra :
  - Traiter une image
  - Appliquer un filtre (grâce à une matrice de convolution)
  - Créer ou extraire une image nouvelle
+
+Voir le rapport pour plus d'information sur la structure du code
